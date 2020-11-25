@@ -1,0 +1,24 @@
+.line-chart-wrapper{
+  width:100%;
+  height:50vh;
+}
+
+.filter-wrapper{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  .title{
+    font-size: 3vw;
+  }
+  
+  .space-div{
+    width:20px;
+  }
+
+  .month-filter-wrapper{
+    display: flex;
+    flex-direction: row;
+  }
+}
