@@ -1,0 +1,5 @@
+{
+    "electricity-bill-data":"electricity_bill_data.csv",
+    "gas-bill-data":"gas_bill_data.csv",
+    "water-bill-data":"water_bill_data.csv"
+}
